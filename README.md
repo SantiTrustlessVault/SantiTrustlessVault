@@ -4,13 +4,7 @@
 
 
 
-
-
-🚀 Passionate about Web3 and smart contracts
-
-
-
-🔍 Specialized in security audits and Foundry
+🚀 Passionate about Malware dev - Analisys, Web3 and smart contracts
 
 
 
@@ -20,12 +14,12 @@
 
 🤝 Open to collaborating on innovative projects
 
-📫 Contact on X: @0xSantino
+📫 Contact on X: @didomenico10x
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Santino-di-domenico) -> Dm me.
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/0xSantino) -> Dm me.
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/didomenico10x) -> Dm me.
 
 
 
